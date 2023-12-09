@@ -56,6 +56,9 @@ permalink: /people/
 
 <br>
 
+| Name  | MLML Lab Role | Current Role |
+[Lijing Wang](https://people.njit.edu/faculty/lw29) | Postdoctoroal research fellow | Faculty, NJIT |
+
 <!-- 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
