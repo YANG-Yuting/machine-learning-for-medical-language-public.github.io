@@ -1,7 +1,7 @@
 ---
 name: Weipeng Zhou
 position: gradstudent
-avatar: wz_headshot.jpg
+avatar: wz_headshot.png
 twitter: -
 ---
 
