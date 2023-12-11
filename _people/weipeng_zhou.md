@@ -2,7 +2,6 @@
 name: Weipeng Zhou
 position: gradstudent
 avatar: wz_headshot.png
-twitter: -
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
